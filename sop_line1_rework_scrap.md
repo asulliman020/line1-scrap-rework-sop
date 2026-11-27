@@ -1,10 +1,10 @@
 # SOP: Logging Line 1 Rework vs. Scrap
 
-**Document ID:**  SOP-QA-L1-014\
-**File Name:** SOP-QA-L1-014_Line1-Rework-vs-Scrap-Logging_v1.0.docx\
-**SharePoint Location:** Operations Hub > Quality Assurance > Documents > SOPs > Line 1\
-**Version:** v1.0 (Approved — View-Only for Floor Terminals; Check-Out Required to Edit)\
-**Owner:** QA Lead | Effective Date: November 23, 2026 | Review Cycle: Every 6 Months\
+**<ins>Document ID</ins>:**  SOP-QA-L1-014\
+**<ins>File Name</ins>:** SOP-QA-L1-014_Line1-Rework-vs-Scrap-Logging_v1.0.docx\
+**<ins>SharePoint Location</ins>:** Operations Hub > Quality Assurance > Documents > SOPs > Line 1\
+**<ins>Version</ins>:** v1.0 (Approved — View-Only for Floor Terminals; Check-Out Required to Edit)\
+**<ins>Owner</ins>:** QA Lead | Effective Date: November 23, 2026 | Review Cycle: Every 6 Months\
 
 ## Purpose
 Keep fixable rework separate from permanent scrap on Line 1 so daily scrap reports show real material waste.
